@@ -25,9 +25,6 @@
   - Se a lâmpada estiver acesa, ela pertence ao interruptor 2
   - Se a lâmpada estiver apagada, **mas quente**, ela pertencia ao interruptor 3
   - Se a lâmpada estiver apagada e fria, é o interruptor 1.
-- Essa lógica soluciona o problema, pois apenas com a primeira ida eu iria conseguir a resposta de algum dos interruptores.
-- Na segunda ida faltaria dois interruptores, que eu apenas deixaria um interruptor ligado e o outro desligado.
-- Assim, eu iria para uma das salas restantes e verificava se a lâmpada estava ligada ou desligada.
-- Com isso, o problema seria solucionado!
+- Essa lógica soluciona o problema, pois apenas com a primeira ida eu iria conseguir a resposta dos interruptores!
 
 :D
